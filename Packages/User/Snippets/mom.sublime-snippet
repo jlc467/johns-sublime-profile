@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import moment from 'moment';
+]]>
+</content>
+  <tabTrigger>mom</tabTrigger>
+  <description>import moment.js</description>
+</snippet>
