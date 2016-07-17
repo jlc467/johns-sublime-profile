@@ -1,6 +1,5 @@
-  1. Install [Operator Mono](http://www.typography.com/fonts/operator/overview/)
-  2. Backup `~/Library/Application\ Support/Sublime\ Text\ 3/`
-  3. Run:
+  1. Backup `~/Library/Application\ Support/Sublime\ Text\ 3/`
+  2. Run:
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/`
 git init .
