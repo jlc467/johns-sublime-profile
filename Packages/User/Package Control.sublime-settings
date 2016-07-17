@@ -10,12 +10,15 @@
 		"BracketHighlighter",
 		"Console Wrap for js",
 		"DocBlockr",
+		"ExpandRegion",
 		"Google Search",
 		"Package Control",
 		"RawLineEdit",
+		"Sort JavaScript Imports",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"Terminal",
-		"Theme - Cobalt2"
+		"Theme - itg.flat",
+		"Theme - Spacegray"
 	]
 }

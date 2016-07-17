@@ -4,7 +4,7 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 3,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
 	"detect_indentation": false,
 	"folder_exclude_patterns":
 	[
@@ -14,18 +14,25 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_face": "Operator Mono",
-	"font_size": 18,
+	"font_face": "Inconsolata",
+	"font_options":
+	[
+		"no_bold",
+		"sub_antialias"
+	],
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
+	"itg_small_tabs": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"rulers":
@@ -34,7 +41,7 @@
 	],
 	"show_minimap": false,
 	"tab_size": 2,
-	"theme": "Cobalt2.sublime-theme",
+	"theme": "itg.flat.dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
