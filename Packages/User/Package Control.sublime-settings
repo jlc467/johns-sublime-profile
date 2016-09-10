@@ -11,17 +11,15 @@
 		"Console Wrap for js",
 		"DocBlockr",
 		"ExpandRegion",
+		"GitGutter",
 		"Google Search",
-		"Oceanic Next Color Scheme",
 		"Package Control",
 		"RawLineEdit",
+		"SideBarEnhancements",
 		"Sort JavaScript Imports",
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"Terminal",
-		"Theme - Cobalt2",
-		"Theme - itg.flat",
-		"Theme - Spacegray"
+		"Theme - Cobalt2"
 	]
 }

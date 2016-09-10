@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-import moment from 'moment';
+import moment from 'moment'
 ]]>
 </content>
   <tabTrigger>mom</tabTrigger>

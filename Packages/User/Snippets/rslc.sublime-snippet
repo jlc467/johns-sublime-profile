@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-import React from 'react';
+import React from 'react'
 
-const ${1:ComponentName} = (props) =>
+const ${1:ComponentName} = props =>
   <div>${2:jsx}</div>
-export default ${1:ComponentName};
+export default ${1:ComponentName}
 ]]>
 </content>
   <tabTrigger>rslc</tabTrigger>
